@@ -1,2 +1,2 @@
 # Sonn Ysenburg
-Academic and Engineering Content Repository
+Researcher & Engineer
