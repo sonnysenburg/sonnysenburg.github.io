@@ -1,0 +1,5 @@
+site_name: My Docs
+site_url: https://sonnysenburg.github.io/mkdocs/
+sitr_author: Sonn Ysenburg
+theme:
+  name: material
