@@ -1,2 +1,0 @@
-# Sonn Ysenburg
-Researcher & Engineer
